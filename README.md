@@ -37,6 +37,14 @@ directory structure:
 - └── templates/
     - └── index.html
 
+# Installing requirements
+
+To Install the required packages for the application:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Running the Application
 
 To start the Flask server, run the following command:
